@@ -25,7 +25,7 @@ This project sets up a high-availability PostgreSQL cluster using **Patroni**, *
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Truong-itt/PostgreSQL-HA-with-Docker.git
-   cd 
+   cd PostgreSQL-HA-with-Docker/
    ```
 
 2. **Build and Start the Cluster**
